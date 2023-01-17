@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/programacion/EGG2/JPA/libreriaJPA1/src/libreriaJPA1/Persistence/LibroDAO.java</file>
+            <file>file:/D:/programacion/EGG2/JPA/libreriaJPA1/src/libreriaJPA1/Entities/Editorial.java</file>
+            <file>file:/D:/programacion/EGG2/JPA/libreriaJPA1/src/libreriaJPA1/Services/LibroService.java</file>
+            <file>file:/D:/programacion/EGG2/JPA/libreriaJPA1/src/libreriaJPA1/Persistence/AutorDAO.java</file>
+            <file>file:/D:/programacion/EGG2/JPA/libreriaJPA1/src/libreriaJPA1/Persistence/DAO.java</file>
+            <file>file:/D:/programacion/EGG2/JPA/libreriaJPA1/src/META-INF/persistence.xml</file>
+            <file>file:/D:/programacion/EGG2/JPA/libreriaJPA1/src/libreriaJPA1/Services/AutorService.java</file>
+            <file>file:/D:/programacion/EGG2/JPA/libreriaJPA1/src/libreriaJPA1/Services/EditorialService.java</file>
+            <file>file:/D:/programacion/EGG2/JPA/libreriaJPA1/src/libreriaJPA1/Entities/Libro.java</file>
+            <file>file:/D:/programacion/EGG2/JPA/libreriaJPA1/src/libreriaJPA1/Persistence/EditorialDao.java</file>
+            <file>file:/D:/programacion/EGG2/JPA/libreriaJPA1/src/libreriaJPA1/LibreriaJPA1.java</file>
+            <file>file:/D:/programacion/EGG2/JPA/libreriaJPA1/src/libreriaJPA1/Entities/Autor.java</file>
+            <file>file:/D:/programacion/EGG2/JPA/libreriaJPA1/src/libreriaJPA1/Services/MenuService.java</file>
+        </group>
+    </open-files>
+</project-private>
